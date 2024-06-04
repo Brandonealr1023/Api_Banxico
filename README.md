@@ -31,7 +31,8 @@ los ID de los indicadores son los siguientes.
 	Índice Nacional de Precios al consumidor variación anual: SP30578
  TIIE de fondeo a 1 día Tasa de interés promedio mensual, en por ciento anual: SF331450
 
-Finalmente se procesan los datos los datos con Pandas, y se gráfican utilizando Matplotlib obteniendo el siguiente resultado.
+Finalmente se procesan los datos los datos con Pandas, y se gráfican utilizando Matplotlib buscando tener el mismo diseño que la gráfica original
+obteniendo el siguiente resultado.
 ![image](https://github.com/Brandonealr1023/Api_Banxico/assets/76232134/fabf1658-2333-453c-87dc-17735b191684)
 
 
